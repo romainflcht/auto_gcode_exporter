@@ -2,7 +2,7 @@
 PROJECTS_FOLDER_PATH = 'C:/Users/Romain/OneDrive - ESME/Developpement/PythonProjects/auto_gcode_exporter/3D'
 
 # Activate the DEBUG using True and desactivate it using False. 
-DEBUG = True
+DEBUG = False
 
 # Name of the file that need to be created inside of it to ignore it. 
 IGNORE_FILENAME = '.ignore'
